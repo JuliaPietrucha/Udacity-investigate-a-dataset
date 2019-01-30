@@ -30,6 +30,7 @@ Be familiar with pandas' Series and DataFrame objects, which let you access your
 Know how to use Matplotlib to produce plots showing your findings
 
 Submission
+
 What to include in your submission
 A PDF or HTML file containing your analysis. This file should include:
 A note specifying which dataset you analyzed
