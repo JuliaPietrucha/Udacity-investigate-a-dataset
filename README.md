@@ -41,3 +41,4 @@ Summary statistics and plots communicating your final results
 Code you used to perform your analysis. If you used a Jupyter notebook, you can submit your .ipynb. Otherwise, you should submit the code separately in .py file(s).
 A list of Web sites, books, forums, blog posts, github repositories, etc. that you referred to or used in creating your submission (add N/A if you did not use any such resources).
 Jupyter notebook instructions
+ 
